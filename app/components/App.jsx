@@ -32,7 +32,7 @@ export default class App extends React.Component {
     addUser(e) {
         var user = {
                     name : 'Yiya',
-                    age : 20,
+                    age : 21,
                     bio : 'enjoys policts and traveling',
                     hobbies : ['handcraft','painting']
                 };
